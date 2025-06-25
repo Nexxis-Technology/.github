@@ -43,6 +43,7 @@ If **Yes**, please provide a link and summarize the changes.
 - ...
 
 ## LADR Documentation
+<!-- Nexxis LADR repo (private): https://github.com/Nexxis-Technology/LADR -->
 **Does this change require a LADR?** [Yes/No]  
 If **Yes**, please provide a link to the decision document.
 
