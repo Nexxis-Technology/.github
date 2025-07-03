@@ -55,10 +55,24 @@ If **Yes**, please provide a link to the decision document.
 
 
 # PR Checklist
-<!-- Please check off items you've completed or reviewed. -->
-- [ ] Code builds and passes local/unit tests on developer system
-- [ ] Code conforms to repo linting and formatting standards
-- [ ] Relevant documentation (testing, LADR) is updated
-- [ ] Code has been reviewed and all requests/comments resolved
+
+## Developer Submission Checklist
+<!-- Please check off items you've completed before submitting. -->
+- [ ] Code builds and passes local/unit tests on your development system
+- [ ] Code conforms to repository linting and formatting standards
+- [ ] Relevant documentation is updated (e.g., Testing Docs, LADR)
+
+## Reviewer Merge Checklist
+<!-- Reviewers, please check off items you've completed before merging. -->
+- [ ] Code has been reviewed and all comments have been addressed *
+- [ ] Testing documentation has been reviewed (or confirmed not needed)
+- [ ] LADR documentation has been reviewed (or confirmed not needed)
+- [ ] A review comment has been added outlining what was done, such as:
+    - Code review performed
+    - Code built locally
+    - Code tested on a developer machine or test hardware
+
+> \* GitHub branch protection rules should enforce this before merge.
+
 
 
