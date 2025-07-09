@@ -8,14 +8,14 @@ Please remove or skip any sections that are not relevant to your PR.
 <!-- Briefly describe the purpose of this PR. Aim for 2–3 sentences. -->
 E.g., Implements X feature to support Y requirement; resolves bug Z found during integration testing.
 
-# Type of Change
-<!-- Select the most relevant type(s) for this PR. -->
-- [ ] 🚀 Feature
-- [ ] 🐞 Bugfix
-- [ ] ♻️ Refactor / Code Cleanup
-- [ ] 📈 Tech Debt Reduction
-- [ ] 📄 Documentation
-- [ ] ⚙️ Infrastructure / Build System
+# Type(s) of Change
+<!-- Uncomment the most relevant type(s) for this PR. -->
+<!-- - 🚀 Feature -->
+<!-- - 🐞 Bugfix -->
+<!-- - ♻️ Refactor / Code Cleanup -->
+<!-- - 📈 Tech Debt Reduction -->
+<!-- - 📄 Documentation -->
+<!-- - ⚙️ Infrastructure / Build System -->
 
 # Description of Changes
 <!-- Describe what was changed and why. Use bullet points if helpful. -->
