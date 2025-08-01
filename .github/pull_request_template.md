@@ -33,21 +33,26 @@ E.g., Requires [hardware setup] or [ROS2 bridge] running.
 
 # Documentation
 ## Testing Documentation
+<!-- If **Yes**, please provide a link and summarize the changes. -->
 **Does this change require new or updated testing documentation?** [Yes/No]  
-If **Yes**, please provide a link and summarize the changes.
-
-[Testing Documentation Link]()
+<!-- [Testing Documentation Link]() -->
 
 **Changes to testing documentation:**
 - ...
 - ...
 
-## LADR Documentation
-<!-- Nexxis LADR repo (private): https://github.com/Nexxis-Technology/LADR -->
-**Does this change require a LADR?** [Yes/No]  
-If **Yes**, please provide a link to the decision document.
+## LDR Documentation
+<!-- Nexxis LDR repo (private): https://github.com/Nexxis-Technology/LDR -->
 
-[LADR Link]()
+### LADR
+<!-- If **Yes**, please provide a link to the decision document. -->
+**Does this change require a LADR?** [Yes/No]  
+<!-- [LADR Link]() -->
+
+### LDDR
+<!-- If **Yes**, please provide a link to the decision document. -->
+**Does this change require a LDDR?** [Yes/No]  
+<!-- [LDDR Link]() -->
 
 
 # Additional Context (Optional)
@@ -66,7 +71,7 @@ If **Yes**, please provide a link to the decision document.
 <!-- Reviewers, please check off items you've completed before merging. -->
 - [ ] Code has been reviewed and all comments have been addressed *
 - [ ] Testing documentation has been reviewed (or confirmed not needed)
-- [ ] LADR documentation has been reviewed (or confirmed not needed)
+- [ ] LDR documentation (ADR & DDR) has been reviewed (or confirmed not needed)
 - [ ] A review comment has been added outlining what was done, such as:
     - Code review performed
     - Code built locally
